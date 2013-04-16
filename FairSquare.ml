@@ -71,7 +71,7 @@ let square s =
         );
 ;;
 
-let rec check_fs fsns p =
+let check_fs fsns p =
   try let sq = square p in
     if (is_palindrome sq) then
       sq :: fsns
@@ -109,7 +109,7 @@ let num_str_cmp s1 s2 =
       | cmp -> cmp
 ;;
 
-(* works *)
+(* work starts *)
 
 let max_dig = 50;;
 
