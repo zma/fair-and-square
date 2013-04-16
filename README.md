@@ -7,4 +7,11 @@ This program in OCaml generate the fair and square numbers that have less than 1
 
 A list of generated fair and square numbers is already in fair-and-square.txt.
 
+To compile the code (you need `ocamlopt`):
+
+  make
+
+To generate the list:
+
+  ./fairsquare
 
