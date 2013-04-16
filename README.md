@@ -9,11 +9,11 @@ A list of generated fair and square numbers is already in [fair-and-square.txt](
 
 To compile the code (you need `ocamlopt`):
 
-  make
+    make
 
 To generate the list:
 
-  ./fairsquare
+    ./fairsquare
 
 Bug report:
 
