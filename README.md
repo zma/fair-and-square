@@ -11,7 +11,7 @@ To compile the code (you need `ocamlopt`):
 
     make
 
-To generate the list:
+To generate the list (it takes around 20 secs on my laptop):
 
     ./fairsquare
 
