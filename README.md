@@ -17,5 +17,5 @@ To generate the list (it takes around 20 secs on my laptop):
 
 Bug report:
 
-Zhiqiang Ma (http://www.zhiqiangma.com)
+Eric Ma (http://www.ericzma.com)
 
