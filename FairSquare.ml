@@ -1,5 +1,5 @@
 (*
- * Bug report to: Zhiqiang Ma (http://www.zhiqiangma.com)
+ * Bug report to: Eric Ma (https://www.ericzma.com)
  *)
 
 open Printf;;
